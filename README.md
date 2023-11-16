@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself Ritik Chauhan</h1>
+<h1 align="center">Hi 👋, I'am Ritik</h1>
 <h3 align="center">a Frontend geek from India</h3>
 
 - 🔭 I’m currently working for [Mailmodo](https://www.mailmodo.com/)
