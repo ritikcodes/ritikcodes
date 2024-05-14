@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [Mailmodo](https://www.mailmodo.com/)
 
-- 🌱 I’m currently learning **How to create own programming language**
+- 🌱 I’m currently learning **How to code the code**
 
 - 💬 Ask me about **any frontend stuff**
 
